@@ -129,3 +129,5 @@ if points > last_record:
 #else, we will display the current record and encourage the player to try again.
 else:
     print(f"Last score: {last_record}. Good job!😉")
+
+print("press/enter to exit")
